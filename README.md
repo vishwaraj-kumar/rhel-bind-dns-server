@@ -308,7 +308,7 @@ chown named:named reverse.zone
 File:
 
 ```
-/var/named/forward.zone
+vim /var/named/forward.zone
 ```
 
 ```conf
@@ -356,7 +356,7 @@ server  IN CNAME  node10
 File:
 
 ```
-/var/named/reverse.zone
+vim /var/named/reverse.zone
 ```
 
 ```conf
