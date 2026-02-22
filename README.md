@@ -524,3 +524,11 @@ This project strengthened my understanding of:
 * DNS troubleshooting using `dig` and `nslookup`
 
 ---
+
+## ✍️ Author
+
+**Vishwaraj Kumar**  
+🔗 [GitHub Profile](https://github.com/vishwaraj-kumar)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/vishwaraj-kumar/)
+
+---
