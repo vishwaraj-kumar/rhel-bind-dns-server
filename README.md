@@ -1,9 +1,3 @@
-Here is your **converted project-style README.md content in professional English**, based exactly on your structure, but rewritten as a proper project documentation.
-
-You can directly copy-paste this into your `README.md`.
-
----
-
 # 📘 DNS Server Configuration Project
 
 ## Authoritative DNS Setup Using BIND on Red Hat Enterprise Linux
