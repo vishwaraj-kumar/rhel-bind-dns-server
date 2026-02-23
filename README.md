@@ -393,8 +393,8 @@ Before restarting, I validated the configuration:
 
 ```bash
 named-checkconf
-named-checkzone example.com /var/named/forward.zone
-named-checkzone 1.168.192.in-addr.arpa /var/named/reverse.zone
+named-checkzone forward.zone /var/named/forward.zone
+named-checkzone reverse.zone /var/named/reverse.zone
 ```
 
 This prevents syntax errors.
